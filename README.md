@@ -1,4 +1,4 @@
-# BigDataReadiness
+# Big Data Readiness
 
 This repository contains the preprint **"A path to big data readiness"**, and the **"Data checklist modules"** associated with the preprint.
 
